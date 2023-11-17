@@ -3,7 +3,7 @@ var generateBtn = document.querySelector("#generate");
 
     function getPassword() {
     
-
+// password options
     var uppercaseABC = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     var lowercaseABC = "abcdefghijklmnopqrstuvwxyz"
     var numeric = "0123456789"
